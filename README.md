@@ -9,6 +9,7 @@
 - [動能在相對論下的對應 Corresponding Kinetic Energy in Relativity](https://github.com/ccJerrycc/publication/blob/main/Corresponding%20Kinetic%20Energy%20in%20Relativity.pdf)
 - [論圖與拓樸之間的關係 On Relation between Graph and Topology](https://github.com/ccJerrycc/publication/blob/main/On%20Relation%20between%20Graph%20and%20Topology.pdf)
 - [哈伯定律僅僅是觀察者效應嗎？ Is Hubble's Law Merely An Observer Effect?](https://github.com/ccJerrycc/publication/blob/main/Is%20Hubble's%20Law%20Merely%20An%20Observer%20Effect_.pdf)
+- [星系旋轉曲線與廣義相對論的一致性 On Consistency between General Relativity and Galaxy Rotation Curve](https://github.com/ccJerrycc/publication/blob/main/On%20Consistency%20between%20General%20Relativity%20and%20Galaxy%20Rotation%20Curve.pdf)
 ## 文章　Article
 - [子空間、子拓樸、商空間、商拓樸](https://github.com/ccJerrycc/publication/blob/main/子空間、子拓樸、商空間、商拓樸.pdf)
 - [選擇公理及其等價 Axiom of Choice and Its Equivalence](https://github.com/ccJerrycc/publication/blob/main/Axiom%20of%20Choice%20and%20Its%20Equivalence.pdf)
